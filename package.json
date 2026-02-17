@@ -1,7 +1,7 @@
 {
   "name": "openwrt",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Model Context Protocol (MCP) server that enables interactions with OpenWrt routers via SSH (execute commands, read/write files, system info).",
   "main": "index.js",
   "scripts": {
     "build": "tsc",
