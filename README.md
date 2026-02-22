@@ -50,6 +50,8 @@ Make sure to replace `/path/to/openwrt-mcp-server` with the actual absolute path
 -   `read_file`: Read a text file from the router.
 -   `write_file`: Write content to a file on the router.
 -   `list_interfaces`: List network interfaces.
+-   `change_file_permissions`: Change file permissions (chmod).
+-   `change_file_owner`: Change file owner/group (chown).
 
 ## Security Note
 
